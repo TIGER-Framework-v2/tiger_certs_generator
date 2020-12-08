@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Cert generator to docker registry
+name: cert_gen_to_dockerhub
 
 # Controls when the action will run. 
 on:
